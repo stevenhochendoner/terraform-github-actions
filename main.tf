@@ -49,3 +49,4 @@ resource "azurerm_windows_virtual_machine" "windowsvm" {
     sku       = "2022-Datacenter-Azure-Edition"
     version   = "latest"
   }
+}
